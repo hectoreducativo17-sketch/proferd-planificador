@@ -1,0 +1,19 @@
+{
+  "name": "proferd-planificador",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "latest",
+    "lucide-react": "^0.284.0",
+    "framer-motion": "^10.16.4",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0"
+  }
+}
